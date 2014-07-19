@@ -1,4 +1,4 @@
 Android-App-Samples
 ===================
 
-Samples of previously developed apps and app samples on Android
+Previously developed app samples on Android using APIs like Maps, Sensor APIs, Intents etc
